@@ -18,6 +18,7 @@ A passionate Flutter App Developer 🚀
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats  ### 🔥 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyajangra12&layout=compact&theme=tokyonight)  
 ![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pragyajangra12&show_icons=true&theme=tokyonight)  
-
+ 
