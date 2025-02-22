@@ -4,6 +4,8 @@ A passionate Flutter App Developer
 **Pragyajangra12/Pragyajangra12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## Connect With Me
+[![LinkedIn](www.linkedin.com/in/pragya-jangra-b5b060285)
 
 - 🔭 I’m currently working on Bakery App.
 - 🌱 I’m currently learning Flutter and Firebase.
