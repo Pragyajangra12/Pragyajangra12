@@ -21,3 +21,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyajangra12&layout=compact&theme=tokyonight)  
 ![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pragyajangra12&show_icons=true&theme=tokyonight)  
  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pragyajangra12&theme=tokyonight)  
